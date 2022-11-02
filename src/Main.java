@@ -11,8 +11,7 @@ public class Main {
         k = input.nextInt();
 
         int sumNumber = 0;
-        int basNumber = 0;
-
+        
         while (k != 0) {
             sumNumber += k % 10;
 
